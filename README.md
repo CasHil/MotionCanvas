@@ -1,2 +1,2 @@
 # MotionCanvas
-Repository for experimenting with Motion Canvas
+Repository for experimenting with [Motion Canvas](https://github.com/motion-canvas/motion-canvas).
